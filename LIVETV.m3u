@@ -1,5 +1,28 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Sports",PDTV HD Sports (CDN)
+https://cdn.pdtvhd.com/Sports/streams/PDTVHDSports.m3u8
+
+#EXTINF:-1 group-title="Sports",Fox Sports
+https://stream.pdtvhd.com/Sports/streams/FoxSports.m3u8
+
+#EXTINF:-1 group-title="Sports",HappyWatch Sports
+https://live.happywatch99.com/ccochdtv/0c00b89a106bb365ec031b28fa3ae499.sdp/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports",PDTV HD Sports (Live)
+https://live.pdtvhd.com/Sports/streams/PDTVHDSports.m3u8
+
+#EXTINF:-1 group-title="Sports",FIFA 1
+https://live.pdtvhd.com/Sports/streams/Fifa1.m3u8
+
+#EXTINF:-1 group-title="Sports",beIN Sports 1
+https://live.pdtvhd.com/Sports/streams/beINSports1.m3u8
+
+#EXTINF:-1 group-title="Sports",Sport TV 1
+https://stream.pdtvhd.com/Sports/streams/sporttv1.m3u8
+
+#EXTINF:-1 group-title="International",WKRP Channel 1
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 # Bangladesh
 #EXTINF:-1 tvg-name="T Sports" tvg-logo="http://198.195.239.50/img/channels/T%20SPORTS.png" group-title="BDIX LIVE TV",T Sports
 http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8

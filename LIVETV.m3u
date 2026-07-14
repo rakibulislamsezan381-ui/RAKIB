@@ -63,6 +63,34 @@ http://103.165.93.31:8095/deepto/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="BTV" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png" group-title="BDIX LIVE TV",BTV
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Sports",TSN 1 FHD
+https://cdndash.shsliv.xyz/prime/live.php?id=4a6731feba4305db&token=guest__7210cAbx3qjOzbhJNP_OJpERFwsZOUlo3ubNiFH8rWSkmOq9P0x70HrXfjTzcsBKTF78lD5WsH5P4HDd4_IKZ3jK9tDspKlihS0XmpexPmfE6zqS8EDxYXA8F2wtubvofvThhgLEsKz85VkhHDyvhfffkQqmYcR_F0zl1ajjbTNLIRPbxRFeTpS4vWj_5gW4itjoYu36f_BxSZf_z7hKPkTe3lzbXJUirGabC1M0F3yTAWo-ix4XsCZINZnq7oSu2AXE&format=.m3u8
+
+#EXTINF:-1 group-title="Sports",FOX Sports
+https://xameleon.phantemlis.top/three/secure/5b1c1c4b6663d09b780ab5dfaabb801a/1784015958/premium54/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports",TUDN
+https://xameleon.phantemlis.top/one/secure/087b5f5f29d7cebd72165f7ac16c18ae/1784016049/premium935/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports",D Sports
+https://xameleon.phantemlis.top/four/secure/5daaf97b638dee0db6d04d1fd4036fdd/1784016091/premium621/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/zUGrjZ4BuUSiBsg_1BeE/posters/a1152aa0-10ca-451c-8054-26633aa13fde.png" group-title="Toffee",FRA VS ESP
+#EXTVLCOPT:http-user-agent=okhttp/5.1.0
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/index.m3u8?edge-cache-token=Expires=1783953061~Starts=1783945861~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiY2Q5YmUwNjEtMDUyNS00OWIwLTkxMjAtMGFmOGI4NGQ4NTk2In0~Signature=L1Nee9fP21jefB9tdVN3nDidGmw2s2HMf-qa8mHKP3-nCZnNnNOz3bST_-QIub-fKYhGA2uqdBEvo2ZWybEcCg
+
+#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="World_Cup",Toffee
+http://fifabangladesh.top/BRAZIL2/LIVE/play.m3u8?q=900&c=-2
+
+#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="World_Cup",Toffee Backup
+https://babu.khelalive.top/vids/fika/stream.php?id=zUGrjZ4BuUSiBsg_1BeE
+
+#EXTINF:-1 tvg-id="tsports" tvg-name="Football World Cup" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Football World Cup
+http://180.94.28.28:8097/Fifa-2026/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports-2.png" group-title="SM_IPTV",T Sports 2
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+http://book4u.top/royr/index.php?id=FiFaaaah
 # Entertainment
 #EXTINF:-1 tvg-name="Star Jalsha" tvg-logo="http://198.195.239.50/img/channels/STAR%20JALSHA%20HD.png" group-title="BDIX LIVE TV",Star Jalsha
 http://103.165.93.31:8095/starJalsha/index.m3u8
@@ -112,6 +140,11 @@ http://103.165.93.31:8095/cartoonNetwork/index.m3u8
 
 #EXTINF:-1 tvg-name="Discovery Kids" tvg-logo="http://198.195.239.50/img/channels/DISCOVERY%20KIDS.png" group-title="BDIX LIVE TV",Discovery Kids
 http://103.165.93.31:8095/disnepKids/index.m3u8
+
+
+#EXTINF:-1 tvg-id="TelemundoAlDia.us" tvg-name="Telemundo Al Dia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/120px-Telemundo_logo_2012.svg.png" group-title="News",Telemundo Al Dia
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
+
 
 # Special
 #EXTINF:-1 tvg-name="FIFA-1" tvg-logo="http://198.195.239.50/img/channels/images.jpeg" group-title="BDIX LIVE TV",FIFA-1

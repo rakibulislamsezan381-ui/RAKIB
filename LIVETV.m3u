@@ -21,6 +21,9 @@ https://live.pdtvhd.com/Sports/streams/beINSports1.m3u8
 #EXTINF:-1 group-title="Sports",Sport TV 1
 https://stream.pdtvhd.com/Sports/streams/sporttv1.m3u8
 
+#EXTINF:-1 tvg-id="telemundo" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="Sports",Telemundo
+https://xameleon.phantemlis.top/two/secure/458e54ff057e3b89fb9cba7f26de5454/1784052781/premium131/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="International",WKRP Channel 1
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 # Bangladesh

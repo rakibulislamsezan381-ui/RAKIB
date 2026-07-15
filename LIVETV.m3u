@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1, Live Channel 1 FH
+#EXTINF:-1, group-title="FIFA" Live Channel 1 FH
 https://pull.niues.live/live/stream-9912060_lhd.m3u8
 
-#EXTINF:-1, Live Channel 2 HD
+#EXTINF:-1, group-title="FIFA" Live Channel 2 HD
 https://pull.niues.live/live/stream-9912122_lhd.m3u8
 
-#EXTINF:-1, Live Channel 3 DS
+#EXTINF:-1, group-title="FIFA" Live Channel 3 DS
 https://pull.niues.live/live/stream-9912060_lhd.m3u8
 
-#EXTINF:-1, Live Channel 4 BD 
+#EXTINF:-1, group-title="FIFA" Live Channel 4 BD 
 https://pull.niues.live/live/stream-9912108_lhd.m3u8
 
-#EXTINF:-1, Live Channel 5 VD
+#EXTINF:-1, group-title="FIFA" Live Channel 5 VD
 https://pull.niues.live/live/stream-599634_lsd.m3u8
 
 #EXTINF:-1  group-title="FIFA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Logo_of_Toffee.svg/1280px-Logo_of_Toffee.svg.png" ,Toffee (Main)

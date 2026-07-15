@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1  group-title="FIFA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Logo_of_Toffee.svg/1280px-Logo_of_Toffee.svg.png" ,Toffee (Main)
+https://sm-monirul.top/fifa/play/toffee1.m3u8
+
+#EXTINF:-1 group-title="FIFA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Logo_of_Toffee.svg/1280px-Logo_of_Toffee.svg.png" ,Toffee (Backup)
+http://monirul.bro.bd/sm/play.php?id=toffee1
+
 #EXTINF:-1 group-title="Sports",PDTV HD Sports (CDN)
 https://cdn.pdtvhd.com/Sports/streams/PDTVHDSports.m3u8
 

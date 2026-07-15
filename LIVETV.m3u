@@ -202,6 +202,114 @@ http://203.25.108.215/live/mHVtHV3Fga/absolute2sentence/334005.m3u8?token=...
 http://86.107.178.177/live/mHVtHV3Fga/absolute2sentence/45587.m3u8?token=...
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",HappyWatch Stream 1
+https://live.happywatch99.com/ccochdtv/0c00b89a106bb365ec031b28fa3ae499.sdp/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",PDTV HD Sports
+https://ip.pdtvhd.com/Sports/streams/PDTVHDSports.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",Fox Sports
+https://stream.pdtvhd.com/Sports/streams/FoxSports.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",beIN Sports 1
+https://myip.pdtvhd.com/Sports/streams/beINSports1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",TVK Stream
+https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",TVK 2 Stream
+https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",DSports
+https://myip.pdtvhd.com/Sports/streams/dsport.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",ITV 1 UK
+https://xameleon.phantemlis.top/four/secure/fb70d9897bfcde7e4e1becf29bcb4792/1784140360/premium350/tracks-a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",FOX USA
+https://xameleon.phantemlis.top/three/secure/8fc31d83e306772cfd67b5c5716ec540/1784140384/premium54/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",FOXNY USA
+https://xameleon.phantemlis.top/three/secure/1966458a61cf09d50331226015092707/1784140403/premium768/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",RTE 2
+https://xameleon.phantemlis.top/three/secure/c64d2d249ae56f4a1127db3d56e62dc8/1784140438/premium365/tracks-a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",262 - Channel
+https://xameleon.phantemlis.top/three/secure/7a61ad000f937a97faaeed314132433b/1784140462/premium262/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",RSI LA2 Italy
+https://xameleon.phantemlis.top/five/secure/442bbef18c3cf13fcc103c11522e1ac7/1784140497/premium203/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",NRK 1 Norway
+https://xameleon.phantemlis.top/five/secure/23cd739a5c0f019c6ea0a9aa1737dd87/1784140552/premium204/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",TUDN MX
+https://xameleon.phantemlis.top/one/secure/b4fb811f941d8106ce98ffda6c26a017/1784140574/premium935/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",Azteca 7 MX
+https://xameleon.phantemlis.top/two/secure/844e7070285e32573fbecba28f7377ce/1784140616/premium844/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",Canal5 MX
+https://xameleon.phantemlis.top/three/secure/e8e2cfb99ae295391c47ffb9fb4cc9d4/1784140632/premium936/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",BBC One UK
+https://xameleon.phantemlis.top/five/secure/2aa1417fa877c52d16c74827c70d1d6b/1784140660/premium356/tracks-a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",TSN1
+https://xameleon.phantemlis.top/three/secure/67feba7f4d9dbfa93b8ee1ca2e2e9624/1784140676/premium111/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",TSN3
+https://xameleon.phantemlis.top/three/secure/dffd8b5f33fff0a4618dfe01c784d0b0/1784140724/premium113/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",TSN4
+https://xameleon.phantemlis.top/three/secure/96eb2844fffcde4a10abddd41138acc9/1784140741/premium114/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",TVP Sport Poland
+https://vmre6nax.12703830.net:8443/hls/ul20kfisg13uk.m3u8?s=iqLtZX_vlAgllNCMLG1U4A&e=1784151612
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",Sport TV5 Portugal
+https://xameleon.phantemlis.top/five/secure/662f0afd672ec2af6cc67aaada18e4d3/1784140829/premium290/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",SRF Zwei Switzerland
+https://xameleon.phantemlis.top/four/secure/878a2e1ad013d7ee63ba7786934df101/1784140888/premium258/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",JOJ Sport Slovakia
+https://xameleon.phantemlis.top/three/secure/d56ee4ce5d0ef41571a5445970b7da48/1784140940/premium257/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",RTVS Sport Slovakia
+https://xameleon.phantemlis.top/five/secure/7ac7426372962b1a2c8e31dba1e3023a/1784140957/premium939/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",TV4 Sweden
+https://xameleon.phantemlis.top/one/secure/7e8d7b6dc8d60a1f9a38d3dc26f36e84/1784140986/premium1012/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",TRT 1 Turkey
+https://xameleon.phantemlis.top/two/secure/e845cffe6039417dcdd8ca2772ad00cc/1784141030/premium889/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",Sport TV1 Portugal 50fps
+https://xameleon.phantemlis.top/three/secure/75c7ddc62900c20a8b4d43735295cc94/1784141084/premium261/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",Match TV Russia
+https://xameleon.phantemlis.top/five/secure/d1d4cbcc826c25046fd6dac2a9ab80ac/1784141093/premium127/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",Match Premier Russia
+https://xameleon.phantemlis.top/five/secure/d47e6a0e14e2e8532e8be7255bc11ce5/1784141113/premium573/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",Match Football 1 Russia
+https://vmre6nax.12703830.net:8443/hls/03paiytwdpl63.m3u8?s=Pbp8OACerVWSZV5H62M0wg&e=1784151967
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",1 TV Klan Albania
+https://xameleon.phantemlis.top/two/secure/67b3355752e2b378be2bddc51ff76a8c/1784141180/premium237/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",NPO 1 Netherland
+https://xameleon.phantemlis.top/four/secure/4093f6587bd9756048d220f86597d4ec/1784141214/premium251/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",SSC Sport Extra
+https://xameleon.phantemlis.top/four/secure/a251019409d267c2dd8d41bba7b7e0b7/1784141247/premium619/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",Sky Sports 2 DE
+https://xameleon.phantemlis.top/four/secure/9265ab4cf7121d24f3ff62bf8aadbb53/1784141266/premium241/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",SBS Australia
+https://xameleon.phantemlis.top/four/secure/36a0abbcacea7decd3da229771a17d0a/1784141294/premium242/tracks-a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",ORF 1 Austria
+https://xameleon.phantemlis.top/four/secure/4d75cddcd49fe09256683b411a3c5d6a/1784141308/premium244/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",Tipik Belgium
+https://xameleon.phantemlis.top/two/secure/f586e956a32d480ddd2f9e12339a6aa4/1784141327/premium245/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",Caracol TV Colombia
+https://xameleon.phantemlis.top/two/secure/20cc591f54c78e1f0f48b4c4aa590a86/1784141345/premium247/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",HRT2 Croatia
+https://xameleon.phantemlis.top/four/secure/8ae0ac331f1669212bb054c59a7e2dc6/1784141363/premium248/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",RDS CA
+https://xameleon.phantemlis.top/four/secure/6eb0a1d689ac322c8c2ab267c4d63bab/1784141392/premium839/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",Yle TV2 Finland
+https://xameleon.phantemlis.top/one/secure/4c4bf00246085bf3d732146866aa82bc/1784141405/premium1012/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",TRT Spor Turkey
+https://xameleon.phantemlis.top/two/secure/eef4402c14e7e2c6400f7448b7782e90/1784141421/premium889/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",TVE La 1 Spain
+https://xameleon.phantemlis.top/four/secure/7fda99fc11e0e44f8e9e551acf622cbc/1784141446/premium533/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",ZDF DE
+https://xameleon.phantemlis.top/five/secure/86360f284899ae3882f723904eca10ec/1784141465/premium727/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",Sport TV1 Portugal
+https://xameleon.phantemlis.top/two/secure/6f169c6e04095d81a203c457187319ce/1784141492/premium49/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",beIN Sports 1 Max
+https://xameleon.phantemlis.top/four/secure/fd2848772db113fefda24563370423ab/1784141517/premium966/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",beIN Sports 2 Max
+https://xameleon.phantemlis.top/four/secure/629fe84578e64a619b0b32eb138d8adc/1784141561/premium967/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",RTP 1 Portugal
+https://vmre6nax.12703830.net:8443/hls/1n5y3reb323oa.m3u8?s=l2hYUy7egQ4XdQcfzCrvFQ&e=1784152402
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",TVI Portugal
+https://xameleon.phantemlis.top/five/secure/3ad7d4dcd09bbe6e2e4a414d891acf0e/1784141653/premium723/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",TVP2 Poland
+https://xameleon.phantemlis.top/four/secure/e47c7bbc1a0f62ce0b9079adfc1adb60/1784141673/premium561/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",SSC Sport Extra 2
+https://xameleon.phantemlis.top/four/secure/f3bc43b51a0a9681ce443a3a19dcaf5f/1784141706/premium619/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="DaddyLive",Fox Sports 1 USA 2
+https://xameleon.phantemlis.top/four/secure/f3bc43b51a0a9681ce443a3a19dcaf5f/1784141706/premium619/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN {FIFA}
 https://1nyaler.streamhostingcdn.top/stream/97/index.m3u8

@@ -1,10 +1,49 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TSports" tvg-name="T Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="Link3 Live TV",T Sports
-http://172.31.169.169/live/TSports/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=ba6908d4a660e3fb63c6c61ce0fe825b4bb26c57-36a24d4290b4f8adbe8229989cb38983-1784375909-1784354009
+#EXTINF:-1 tvg-id="BTVWorld" tvg-name="BTV World" tvg-logo="https://en.wikipedia.org/wiki/BTV_News#/media/File:BTV_News_Logo.svg" group-title="Bangladesh",BTV World
+http://172.31.169.168:8080/BTVWorld/tracks-v1a1/mono.m3u8?token=233cebed726ba58e0649b30ae98d99c39cc58866-242cb82e4cfb5a76d2fadaa0b6930691-1784393024-1784382224
 
-#EXTINF:-1 tvg-id="SomoyTV" tvg-name="Somoy TV" tvg-logo="https://www.somoynews.tv/icon.png" group-title="Link3 Live TV",Somoy TV
-http://172.31.169.169/live/SOMOY/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=c78eb460399a3a60b77b8b98ac847576260be964-4952480e8736b44b0b832168e988598e-1784375946-1784354046
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/250px-Bangladesh_Television_Logo.svg.png" group-title="Bangladesh",BTV
+http://172.31.169.168:8080/BTV/tracks-v1a1/mono.m3u8?token=d2fe40030c870bf70e0558476bfc32e40c462bbc-7f055edd1bfdade722299f003c554ae9-1784393112-1784382312
 
-#EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/500px-Bangladesh_Television_Logo.svg.png" group-title="Link3 Live TV",BTV
-http://172.31.169.169/live/BTV/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=af87d67b1d67c33040c2d6e779ecad921f129fe2-c2ca225188f343bc43ae9d36e9e85e5c-1784375955-1784354055
+#EXTINF:-1 tvg-id="ATNBangla" tvg-name="ATN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/250px-ATN_Bangla.svg.png" group-title="Bangladesh",ATN Bangla
+http://172.31.169.168:8080/ATNBangla/tracks-v1a1/mono.m3u8?token=f3ee63e8965899b9886a6b94c1c3f991e80e54ad-4e9a0fac46c6613d374a7cacfc21313d-1784393166-1784382366
+
+#EXTINF:-1 tvg-id="ATNNews" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/960px-ATN_News_logo.svg.png" group-title="News",ATN News
+http://172.31.169.168:8080/ATNNews/tracks-v1a1/mono.m3u8?token=d9c5c15d17e4190e1ee44169a437e659a7b1b095-2646c62c296e2ae02b33476fd88feba8-1784393226-1784382426
+
+#EXTINF:-1 tvg-id="BijoyTV" tvg-name="Bijoy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_of_Bijoy_TV.svg/960px-Logo_of_Bijoy_TV.svg.png" group-title="Bangladesh",Bijoy TV
+http://172.31.169.168:8080/BijoyTV/tracks-v1a1/mono.m3u8?token=376cbbc62632ceecc1cdded198eeeff1fa7c990e-7711ef19a46754d193f332f6ec4fca29-1784393270-1784382470
+
+#EXTINF:-1 tvg-id="AsianTV" tvg-name="Asian TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/120px-Asian_TV_Logo.svg.png" group-title="Bangladesh",Asian TV
+http://172.31.169.168:8080/AsianTV/tracks-v1a1/mono.m3u8?token=d0416ae9f609b7f1d2ba86e88b103d29dd507af7-8814f5e9b0d423be8bde8680b4b91b1e-1784393315-1784382515
+
+#EXTINF:-1 tvg-id="BanglaVision" tvg-name="Bangla Vision" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/120px-Banglavision.svg.png" group-title="Bangladesh",Bangla Vision
+http://172.31.169.168:8080/BanglaVision/tracks-v1a1/mono.m3u8?token=dcf621a2086837a09b2140855742cb05088122e1-ac2cfb437e77b718322e03d52a220f19-1784393446-1784382646
+
+#EXTINF:-1 tvg-id="Channel24" tvg-name="Channel 24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Logo_of_Channel_24_%28Bangladesh%29.svg/250px-Logo_of_Channel_24_%28Bangladesh%29.svg.png" group-title="News",Channel 24
+http://172.31.169.168:8080/Channel24/tracks-v1a1/mono.m3u8?token=dccf4d7328e8736d44014529f7617a62758778dd-04ffff90609938ba28e1e9e8db727408-1784393523-1784382723
+
+#EXTINF:-1 tvg-id="ChannelI" tvg-name="Channel i" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/250px-Channel-i.svg.png" group-title="Bangladesh",Channel i
+http://172.31.169.168:8080/ChannelI/tracks-v1a1/mono.m3u8?token=305b806949defe82dc7f11af9be9284d82b5b9d4-c61f0ca67e6e47cb4cdf2599dd1a8201-1784393574-1784382774
+
+#EXTINF:-1 tvg-id="DBCNews" tvg-name="DBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%E0%A6%A1%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E2%80%93%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/250px-%E0%A6%A1%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E2%80%93%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="News",DBC News
+http://172.31.169.168:8080/DBCNews/tracks-v1a1/mono.m3u8?token=a2818e7ddff52893ad06dc33d43eda4aaae149a7-22ff8023ce983b59a92c6a72d201f8b6-1784393614-1784382814
+
+#EXTINF:-1 tvg-id="TSportsHD" tvg-name="T Sports HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf3p9HPXP_bNJMfPGfED_Ba3ovjtCy_9MazCyycegeJZKMnD6kYhM0t3LUMw7vnzmK38hB9MqTPqz6y6A-zCfEBzBvU7sY9HTHH8BVb_1NBNBraJDtvDBCk-V7XBlSKcfhypl2r53JQmQ/s300-rw/T-Sports-Bangladesh-Logo.png" group-title="Sports",T Sports HD
+http://172.31.169.168:8080/TSportsHD/tracks-v1a1/mono.m3u8?token=613326912fc36fc5c31f6715563c0e02fd659296-6db4d3c4579943c1be480ae0a171e1c7-1784393918-1784383118
+
+#EXTINF:-1 tvg-id="TSports" tvg-name="T Sports SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/250px-T_Sports_logo.svg.png" group-title="Sports",T Sports SD
+http://172.31.169.168:8080/TSports/tracks-v1a1/mono.m3u8?token=1ed5a70ca22f289754fe99dd9577690caeb252c3-fc542538e12e5556849110f946d63e3f-1784393877-1784383077
+
+#EXTINF:-1 tvg-id="JamunaTV" tvg-name="Jamuna TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Jamuna_TV_logo.svg/330px-Jamuna_TV_logo.svg.png" group-title="News",Jamuna TV
+http://172.31.169.168:8080/JamunaTV/tracks-v1a1/mono.m3u8?token=89148c4e592315fff5e498725359961b42efaca9-8429e0e0e57e4989edbe8fc49b6dab00-1784394102-1784383302
+
+#EXTINF:-1 tvg-id="SomoyTV" tvg-name="Somoy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/SOMOY_TV_Logo.svg/250px-SOMOY_TV_Logo.svg.png" group-title="News",Somoy TV
+http://172.31.169.168:8080/SomoyTv/tracks-v1a1/mono.m3u8?token=e41f5fbdb2cc116bb61880bbd0f932f1b18fbbcf-49e42b1dcb7a6bf0f94a9badb8003682-1784394430-1784383630
+
+#EXTINF:-1 tvg-id="PTVSports" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png" group-title="Sports",PTV Sports
+http://172.31.169.168:8080/PTVSports/tracks-v1a1/mono.m3u8?token=aa2af8fa8071054824d5854e53c8e9cbd5060dc0-b721d2c9d0aa55023862da08dabe5d22-1784394541-1784383741
+
+#EXTINF:-1 tvg-id="StarGoldHD" tvg-name="Star Gold HD" tvg-logo="https://www.vhv.rs/dpng/d/484-4849161_star-gold-hd-png-download.png" group-title="Movies",Star Gold HD
+http://172.31.169.168:8080/StarGoldHD/tracks-v1a1/mono.m3u8?token=38d03446b4a9f62489b540e5821f58cf508eefd4-4031fba9be3337fbb739a0d678c62347-1784394665-1784383865

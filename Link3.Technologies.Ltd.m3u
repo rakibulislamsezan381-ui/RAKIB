@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="TSports" tvg-name="T Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="Link3 Live TV",T Sports
-http://172.31.169.169/live/TSports/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=68bfdbb3908d412c41719cdacaefa5f17688f6ce-f2beef26ed9254cbe3c9e47d6074d6fa-1784374802-1784352902
+http://172.31.169.169/live/TSports/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=d80ae4cafbe433538c2f6dc5f61f977baba6f225-17590f6a4b9376948e7f13d1afb10a86-1784375290-1784353390
 
 #EXTINF:-1 tvg-id="SomoyTV" tvg-name="Somoy TV" tvg-logo="https://www.somoynews.tv/icon.png" group-title="Link3 Live TV",Somoy TV
 http://172.31.169.169/live/SOMOY/tracks-v1/mono.m3u8?remote=no_check_ip&token=a1e7b8f04f9d03ac666d9ff7ff5d5224fae08dea-e7a797f21f79aa7350a6566644468ec1-1784374842-1784352942

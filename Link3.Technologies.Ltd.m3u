@@ -1,11 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="TSports" tvg-name="T Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="Link3 Live TV",T Sports
-http://172.31.169.169/live/TSports/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=a8e472fe73079d2e768d46999d96e73b40e70e1e-7f96f073cd496038248734a9ed853259-1784375547-1784353647
+http://172.31.169.169/live/TSports/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=ba6908d4a660e3fb63c6c61ce0fe825b4bb26c57-36a24d4290b4f8adbe8229989cb38983-1784375909-1784354009
 
 #EXTINF:-1 tvg-id="SomoyTV" tvg-name="Somoy TV" tvg-logo="https://www.somoynews.tv/icon.png" group-title="Link3 Live TV",Somoy TV
-http://172.31.169.169/live/SOMOY/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=812b9e2a949727952b5ae2298ca6df5d1e3ec50b-ec4a378f8e5281b4611865be07509c96-1784375624-1784353724
+http://172.31.169.169/live/SOMOY/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=c78eb460399a3a60b77b8b98ac847576260be964-4952480e8736b44b0b832168e988598e-1784375946-1784354046
 
 #EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/500px-Bangladesh_Television_Logo.svg.png" group-title="Link3 Live TV",BTV
-http://172.31.169.169/live/BTV/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=0fda322d88896b680b18cf7111d7a766d59c8b6b-54d443fba6dfea73c220ec4ad2a608ed-1784375654-1784353754
-
+http://172.31.169.169/live/BTV/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=af87d67b1d67c33040c2d6e779ecad921f129fe2-c2ca225188f343bc43ae9d36e9e85e5c-1784375955-1784354055

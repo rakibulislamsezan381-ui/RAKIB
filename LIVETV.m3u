@@ -1,19 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Sports",Live Channel 1 FH
-https://pull.niues.live/live/stream-9912060_lhd.m3u8
+#EXTM3U
 
-#EXTINF:-1 group-title="Sports",Live Channel 2 HD
-https://pull.niues.live/live/stream-9912122_lhd.m3u8
+#EXTINF:-1 tvg-id="TSports" tvg-name="T Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="Link3 Live TV",T Sports
+http://172.31.169.169/live/TSports/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=e7bda7a05c749c6306169c700669d9efcf234eb4-b88c38374f0cbe709349cfe4cd18b6c8-1784374360-1784352460
 
-#EXTINF:-1 group-title="Sports",Live Channel 3 DS
-https://pull.niues.live/live/stream-9912060_lhd.m3u8
+#EXTINF:-1 tvg-id="SomoyTV" tvg-name="Somoy TV" tvg-logo="https://www.somoynews.tv/icon.png" group-title="Link3 Live TV",Somoy TV
+http://172.31.169.169/live/SOMOY/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=9325100eaa13baf35e3d4021df7dc1e50148f6e5-113a0318d0bfa893cb76581e31d0147e-1784374449-1784352549
 
-#EXTINF:-1 group-title="Sports",Live Channel 4 BD 
-https://pull.niues.live/live/stream-9912108_lhd.m3u8
-
-#EXTINF:-1 group-title="FIFA" ,Live Channel 5 VD
-https://pull.niues.live/live/stream-599634_lsd.m3u8
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/500px-Bangladesh_Television_Logo.svg.png" group-title="Link3 Live TV",BTV
+http://172.31.169.169/live/BTV/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=7e627d804a537467c35f86b8d645e5a36dcc78ea-9ed6f184d91a6c7d961731f5e3929212-1784374572-1784352672
 
 #EXTINF:-1  group-title="FIFA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Logo_of_Toffee.svg/1280px-Logo_of_Toffee.svg.png" ,Toffee (Main)
 https://sm-monirul.top/fifa/play/toffee1.m3u8

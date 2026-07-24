@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="TSports" tvg-name="T Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/T_Sports_logo.png" group-title="Bangladesh Sports",T Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://172.31.169.169/watch-tv.php?id=1
+#EXTVLCOPT:http-cookie=PHPSESSID=ljjm791udapgbgqu8toji4im6v; tv_access=5bfcf8f5a68b584f95f6ca8b86674fb9
+
+http://172.31.169.169/live/TSports/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=5348ad6edf5d616c52eed09c1808c31af6cfbdd5-37150b09665df61bab8cedadc931bb7a-1784893220-1784871320
+
 #EXTINF:-1 tvg-id="BTVWorld" tvg-name="BTV World" tvg-logo="https://en.wikipedia.org/wiki/BTV_News#/media/File:BTV_News_Logo.svg" group-title="Bangladesh",BTV World
 http://172.31.169.168:8080/BTVWorld/tracks-v1a1/mono.m3u8?token=8fc56be02d64586f9bc6a5675f205a6e265d40b1-4ea0611c0f48d8642764c85cee127434-1784536166-1784525366
 
